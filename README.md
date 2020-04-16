@@ -20,6 +20,8 @@ npm run build
 http://localhost:8080/darg
 http://localhost:8080/flow
 ```
+### 效果图
+![image](https://github.com/chunchundong/dagre3/blob/master/imgForReadme/img.png)
 ### d3js文档
 https://www.d3js.org.cn/
 ### Customize configuration
